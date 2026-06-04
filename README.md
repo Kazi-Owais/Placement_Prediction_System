@@ -7,7 +7,7 @@ Built using **SVM (Support Vector Machine)** and deployed using **Streamlit** fo
 ---
 
 ## 🚀 Live Demo
-*(Add your Streamlit Cloud / deployment link here if available)*
+👉 https://placement-predictionsystem.streamlit.app/
 
 ---
 
@@ -21,8 +21,9 @@ This project aims to predict placement chances using key academic and skill-base
 ## 🧠 Solution Overview
 
 This project uses a supervised machine learning approach to classify students into:
-- ✅ Placed
-- ❌ Not Placed
+
+- ✅ Placed  
+- ❌ Not Placed  
 
 The model learns from academic, technical, and skill-based features.
 
@@ -30,33 +31,33 @@ The model learns from academic, technical, and skill-based features.
 
 ## ⚙️ Tech Stack
 
-- Python 🐍
-- Pandas & NumPy
-- Scikit-learn (SVM Classifier)
-- Streamlit (Web App)
-- Joblib (Model Serialization)
+- Python 🐍  
+- Pandas & NumPy  
+- Scikit-learn (SVM Classifier)  
+- Streamlit (Web App)  
+- Joblib (Model Serialization)  
 
 ---
 
 ## 📊 Features Used
 
 ### Input Features:
-- CGPA
-- SSC Marks
-- HSC Marks
-- Internships
-- Projects
-- Workshops / Certifications
-- Aptitude Test Score
-- Soft Skills Rating
-- Extracurricular Activities
-- Placement Training
+- CGPA  
+- SSC Marks  
+- HSC Marks  
+- Internships  
+- Projects  
+- Workshops / Certifications  
+- Aptitude Test Score  
+- Soft Skills Rating  
+- Extracurricular Activities  
+- Placement Training  
 
 ### Engineered Features:
-- Academic Score
-- Experience Score
-- Profile Score
-- Training Effectiveness
+- Academic Score  
+- Experience Score  
+- Profile Score  
+- Training Effectiveness  
 
 ---
 
